@@ -2,66 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="613097ca-e7d4-48c2-8af5-b3fa7abc3de5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eslintrc.js" afterPath="$PROJECT_DIR$/.eslintrc.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ckeditor.js" afterPath="$PROJECT_DIR$/build/ckeditor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ckeditor.js.map" afterPath="$PROJECT_DIR$/build/ckeditor.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/ar.js" afterPath="$PROJECT_DIR$/build/translations/ar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/ast.js" afterPath="$PROJECT_DIR$/build/translations/ast.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/az.js" afterPath="$PROJECT_DIR$/build/translations/az.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/bg.js" afterPath="$PROJECT_DIR$/build/translations/bg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/ca.js" afterPath="$PROJECT_DIR$/build/translations/ca.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/cs.js" afterPath="$PROJECT_DIR$/build/translations/cs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/da.js" afterPath="$PROJECT_DIR$/build/translations/da.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/de-ch.js" afterPath="$PROJECT_DIR$/build/translations/de-ch.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/de.js" afterPath="$PROJECT_DIR$/build/translations/de.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/el.js" afterPath="$PROJECT_DIR$/build/translations/el.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/en-au.js" afterPath="$PROJECT_DIR$/build/translations/en-au.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/eo.js" afterPath="$PROJECT_DIR$/build/translations/eo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/es.js" afterPath="$PROJECT_DIR$/build/translations/es.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/et.js" afterPath="$PROJECT_DIR$/build/translations/et.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/eu.js" afterPath="$PROJECT_DIR$/build/translations/eu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/fa.js" afterPath="$PROJECT_DIR$/build/translations/fa.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/fi.js" afterPath="$PROJECT_DIR$/build/translations/fi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/fr.js" afterPath="$PROJECT_DIR$/build/translations/fr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/gl.js" afterPath="$PROJECT_DIR$/build/translations/gl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/gu.js" afterPath="$PROJECT_DIR$/build/translations/gu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/he.js" afterPath="$PROJECT_DIR$/build/translations/he.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/hr.js" afterPath="$PROJECT_DIR$/build/translations/hr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/hu.js" afterPath="$PROJECT_DIR$/build/translations/hu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/id.js" afterPath="$PROJECT_DIR$/build/translations/id.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/it.js" afterPath="$PROJECT_DIR$/build/translations/it.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/ja.js" afterPath="$PROJECT_DIR$/build/translations/ja.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/km.js" afterPath="$PROJECT_DIR$/build/translations/km.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/kn.js" afterPath="$PROJECT_DIR$/build/translations/kn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/ko.js" afterPath="$PROJECT_DIR$/build/translations/ko.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/ku.js" afterPath="$PROJECT_DIR$/build/translations/ku.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/lv.js" afterPath="$PROJECT_DIR$/build/translations/lv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/nb.js" afterPath="$PROJECT_DIR$/build/translations/nb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/ne.js" afterPath="$PROJECT_DIR$/build/translations/ne.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/nl.js" afterPath="$PROJECT_DIR$/build/translations/nl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/no.js" afterPath="$PROJECT_DIR$/build/translations/no.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/oc.js" afterPath="$PROJECT_DIR$/build/translations/oc.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/pl.js" afterPath="$PROJECT_DIR$/build/translations/pl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/pt-br.js" afterPath="$PROJECT_DIR$/build/translations/pt-br.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/pt.js" afterPath="$PROJECT_DIR$/build/translations/pt.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/ro.js" afterPath="$PROJECT_DIR$/build/translations/ro.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/ru.js" afterPath="$PROJECT_DIR$/build/translations/ru.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/si.js" afterPath="$PROJECT_DIR$/build/translations/si.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/sk.js" afterPath="$PROJECT_DIR$/build/translations/sk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/sq.js" afterPath="$PROJECT_DIR$/build/translations/sq.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/sr-latn.js" afterPath="$PROJECT_DIR$/build/translations/sr-latn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/sr.js" afterPath="$PROJECT_DIR$/build/translations/sr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/sv.js" afterPath="$PROJECT_DIR$/build/translations/sv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/tr.js" afterPath="$PROJECT_DIR$/build/translations/tr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/tt.js" afterPath="$PROJECT_DIR$/build/translations/tt.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/ug.js" afterPath="$PROJECT_DIR$/build/translations/ug.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/uk.js" afterPath="$PROJECT_DIR$/build/translations/uk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/vi.js" afterPath="$PROJECT_DIR$/build/translations/vi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/zh-cn.js" afterPath="$PROJECT_DIR$/build/translations/zh-cn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/translations/zh.js" afterPath="$PROJECT_DIR$/build/translations/zh.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ckeditor.js" afterPath="$PROJECT_DIR$/src/ckeditor.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
@@ -85,13 +26,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ckeditor.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ckeditor.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ckeditor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="83" lean-forward="false" selection-start-line="9" selection-start-column="83" selection-end-line="9" selection-end-column="83" />
+            <state relative-caret-position="381">
+              <caret line="94" column="17" lean-forward="false" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="e#161#243#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="44" column="6" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+            <state relative-caret-position="340">
+              <caret line="50" column="25" lean-forward="false" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -214,8 +156,8 @@
       <list>
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.eslintrc.js" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/ckeditor.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
       </list>
     </option>
   </component>
@@ -264,60 +206,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ckeditor5-build-inline" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ckeditor5-build-inline" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ckeditor5-build-inline" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ckeditor5-build-inline" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ckeditor5-simple-upload" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ckeditor5-build-inline" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ckeditor5-build-inline" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ckeditor5-simple-upload" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -326,7 +214,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../refactor" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -441,25 +329,26 @@
       <updated>1556013812302</updated>
       <workItem from="1556013813455" duration="443000" />
       <workItem from="1556014257961" duration="288000" />
-      <workItem from="1556014547554" duration="2011000" />
+      <workItem from="1556014547554" duration="2652000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2742000" />
+    <option name="totallyTimeSpent" value="3383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25488997" sideWeight="0.48747912" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2555012" sideWeight="0.51252085" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -506,6 +395,7 @@
           <caret line="9" column="83" lean-forward="false" selection-start-line="9" selection-start-column="83" selection-end-line="9" selection-end-column="83" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#161#243#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -524,6 +414,7 @@
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#161#243#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -644,20 +535,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/src/ckeditor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="44" column="6" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        <state relative-caret-position="381">
+          <caret line="94" column="17" lean-forward="false" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#161#243#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ckeditor.js">
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="83" lean-forward="false" selection-start-line="9" selection-start-column="83" selection-end-line="9" selection-end-column="83" />
+        <state relative-caret-position="340">
+          <caret line="50" column="25" lean-forward="false" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
