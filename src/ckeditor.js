@@ -8,6 +8,7 @@ import InlineEditorBase from '@ckeditor/ckeditor5-editor-inline/src/inlineeditor
 
 import Essentials from '@ckeditor/ckeditor5-essentials/src/essentials';
 import UploadAdapter from '@ckeditor/ckeditor5-adapter-ckfinder/src/uploadadapter';
+import SimpleUpload from '../node_modules/ckeditor5-simple-upload/src/simpleupload';
 import Autoformat from '@ckeditor/ckeditor5-autoformat/src/autoformat';
 import Bold from '@ckeditor/ckeditor5-basic-styles/src/bold';
 import Italic from '@ckeditor/ckeditor5-basic-styles/src/italic';
@@ -34,6 +35,7 @@ export default class InlineEditor extends InlineEditorBase {}
 InlineEditor.builtinPlugins = [
 	Essentials,
 	UploadAdapter,
+	SimpleUpload,
 	Autoformat,
 	Bold,
 	Italic,
